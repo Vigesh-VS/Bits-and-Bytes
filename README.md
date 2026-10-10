@@ -1,3 +1,7 @@
+# OneRecord
+
+### 🚀 [Deployed Link](https://bits-one-beta.vercel.app/)
+
 # OneRecord: Unified Longitudinal Health Record & Consent Platform
 
 > **A National Health Stack Solution** for unified patient health record timelines, dynamic risk-stratified triage, institutional access consent management, emergency room break-glass protocols, and healthcare partner integrations.
